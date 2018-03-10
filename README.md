@@ -1,5 +1,5 @@
 # Implementation of Deep Patient
-
+see: http://www.deutschlandfunk.de/kuenstliche-intelligenz-mit-deep-patient-zur-diagnose.676.de.html?dram:article_id=406698
 ## Recap
 
 A set of stacked denoising auto-encoders is trained on patient data (cut at
